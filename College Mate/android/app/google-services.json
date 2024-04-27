@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "593330005706",
+    "project_id": "college-mate-c6da7",
+    "storage_bucket": "college-mate-c6da7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593330005706:android:1c04823f7f4386e856f633",
+        "android_client_info": {
+          "package_name": "com.example.college_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIVaUoRnEMNHtZ3chUozj77VUZAtDstm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
