@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="google_app_id">1:593330005706:android:1c04823f7f4386e856f633</string>
+    <string name="firebase_database_url">https://college-mate-c6da7.firebaseio.com</string>
+    <string name="gcm_defaultSenderId">593330005706</string>
+    <string name="project_id">college-mate-c6da7</string>
+</resources>
