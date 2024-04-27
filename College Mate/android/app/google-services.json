@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "962899707976",
+    "firebase_url": "https://college-mate-621e8-default-rtdb.firebaseio.com/",
+    "project_id": "college-mate-621e8",
+    "storage_bucket": "college-mate-621e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962899707976:android:667c1658b25a811861b07d",
+        "android_client_info": {
+          "package_name": "com.example.college_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgonjyXl2jj0Va1fnFii3OPjDMSScRTuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
